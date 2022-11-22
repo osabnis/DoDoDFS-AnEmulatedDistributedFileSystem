@@ -1,0 +1,183 @@
+AMC_name,Mutual Fund Name,category,risk_type,fund_rating,return_1yr,return_3yr,return_5yr,AuM(Cr),NAV,turnover_ratio,stocks_in_portfolio,standard_deviation,beta,sharpe_ratio,52_week_high,52_week_low
+ICICI,ICICI Prudential Multi Asset Fund Direct Growth,Hybrid,Very High Risk,4,17.2,20.97,14.46,16311.59,290.491,34.26,52,19.785999999999998,1.056,0.99,9/11/2011,8/2/2017
+Sundaram,Sundaram Dividend Yield Fund Direct Growth,Equity,Very High Risk,2,0.46,20.96,12.72,1980.68,198.93,62.99,26,20.441,0.7090000000000001,1.19,7/6/2006,6/18/2015
+JM,JM Tax Gain Direct Plan Growth,Equity,Very High Risk,4,2.5,20.91,13.25,18755.95,161.186,49.08,54,20.846,1.122,1.21,10/30/2007,1/25/2007
+JM,JM Value Fund Direct Plan Growth,Equity,Very High Risk,3,3.26,20.87,10.46,18277.21,237.592,11.97,17,19.745,1.1320000000000001,1.3,11/24/2006,9/6/2018
+Nippon,Nippon India Quant Fund Retail Direct Growth,Equity,Very High Risk,4,5.38,20.87,12.22,20075.09,131.296,28.82,31,20.072,1.004,0.63,12/20/2008,8/26/2011
+HSBC,HSBC Large and Mid Cap Equity Fund Direct Growth,Equity,Moderately High Risk,3,0.91,20.86,-8.87,1711.14,309.046,61.18,15,22.775,0.917,0.67,1/13/2008,2/21/2021
+DSP,DSP Equity Opportunities Direct Plan Growth,Equity,Very High Risk,3,0.3,20.82,12.45,38490.14,130.61700000000002,27.66,48,20.156,0.997,1.23,10/1/2008,6/16/2008
+Franklin,Franklin India Prima Direct Fund Growth,Equity,Very High Risk,2,1.07,20.74,11.67,12522.07,247.543,54.37,16,20.36,0.818,1.17,10/28/2006,3/23/2014
+SBI,SBI Focused Equity Fund Direct Plan Growth,Equity,Very High Risk,4,0.85,20.66,15.43,12345.32,22.214000000000002,48.74,65,17.948,0.904,0.74,2/15/2007,11/21/2006
+ICICI,ICICI Prudential Exports and Services Fund Direct Growth,Equity,Very High Risk,2,5.87,20.63,13.03,17265.3,123.695,15.04,38,20.962,0.713,0.66,8/21/2021,3/21/2014
+Kotak,Kotak Bluechip Fund Direct Growth,Equity,Very High Risk,5,1.62,20.56,13.54,6972.45,52.217,75.81,59,20.608,1.133,1.1,2/16/2018,2/6/2021
+Kotak,Kotak Focused Equity Fund Direct Growth,Equity,Very High Risk,3,4.39,20.54,23.59,26641.73,58.18,58.32,31,21.91,0.884,1.27,4/18/2013,3/10/2013
+DSP,DSP Flexi Cap Fund Direct Plan Growth,Equity,Very High Risk,3,-3.22,20.51,13.36,12417.19,63.86,24.52,32,18.51,1.014,1.29,12/3/2011,10/25/2013
+Quantum,Quantum India ESG Equity Fund Direct Growth,Equity,High Risk,3,-0.92,20.5,3.93,10946.44,121.244,98.26,49,21.947,0.8220000000000001,0.91,12/19/2006,11/10/2011
+Tata,Tata India Tax Savings Fund Direct Growth,Equity,Very High Risk,3,7.73,20.48,13.01,26791.97,68.029,71.22,24,20.086,0.872,0.93,12/13/2019,1/2/2017
+Nippon,Nippon India Large Cap Fund Direct Growth,Equity,Very High Risk,2,11.45,20.37,13.34,8427.09,228.06400000000002,40.62,35,22.526,0.77,0.65,9/30/2014,6/3/2022
+Kotak,Kotak Multi Asset Allocator FoF Dynamic Direct Growth,Other,Very High Risk,2,7.69,20.33,14.51,12574.52,43.678000000000004,81.95,50,22.531,0.809,0.58,10/6/2020,11/26/2009
+Aditya,Aditya Birla Sun Life Pharma & Healthcare Fund Direct Growth,Equity,High Risk,3,-13.83,20.24,34.28,20610.27,121.94200000000001,77.93,40,19.168,0.868,1.3,7/25/2020,4/29/2015
+Aditya,Aditya Birla Sun Life Dividend Yield Fund Direct Growth,Equity,Very High Risk,4,3.37,20.24,8.37,32742.83,92.66,29.58,42,18.005,0.748,0.63,10/31/2015,8/4/2012
+Sundaram,Sundaram Nifty 100 Equal Weight Fund Direct Growth,Other,Very High Risk,2,3.5,20.21,10.43,17705.22,333.031,15.72,56,20.551,0.9790000000000001,1.31,5/28/2012,10/16/2020
+UTI,UTI India Consumer Fund Direct Growth,Equity,Very High Risk,2,7.2,20.06,11.79,4592.3,213.854,59.67,24,20.605,1.046,1.08,11/26/2011,12/2/2018
+HSBC,HSBC Flexi Cap Fund Direct Growth,Equity,Very High Risk,2,0.5,19.94,9.97,22514.12,242.632,4.73,18,18.569000000000003,0.8690000000000001,0.6,12/28/2013,11/5/2008
+Edelweiss,Edelweiss Long Term Equity Fund (Tax Savings) Direct Growth,Equity,Very High Risk,3,4.66,19.9,12.12,19418.64,274.874,75.25,34,18.527,0.953,1.02,1/17/2017,8/23/2012
+DSP,DSP Quant Fund Direct Growth,Equity,High Risk,4,-5.06,19.85,26.74,34109.58,331.348,20.3,59,20.543000000000003,0.97,0.67,12/24/2016,4/25/2021
+Mahindra,Mahindra Manulife Large Cap Pragati Yojana Direct Growth,Equity,Moderately High Risk,4,3.66,19.81,-0.81,31498.55,53.635,73.32,18,20.433,0.885,0.92,12/4/2016,1/19/2008
+ICICI,ICICI Prudential Long Term Equity Fund (Tax Saving) Direct Plan Growth,Equity,Very High Risk,3,3.28,19.76,13.96,14379.6,279.041,29.15,55,21.247,1.0070000000000001,0.55,5/17/2014,8/20/2015
+ICICI,ICICI Prudential Multicap Fund Direct Plan Growth,Equity,Very High Risk,4,5.55,19.71,13.27,33898.98,325.939,15.9,17,21.361,1.157,0.96,4/20/2018,7/4/2007
+UTI,UTI Nifty Next 50 Index Fund Direct Growth,Other,Very High Risk,4,4.13,19.62,34.73,31857.75,212.446,91.96,29,20.077,0.68,0.67,8/3/2015,8/24/2017
+UTI,UTI Infrastructure Fund Direct Growth,Equity,Very High Risk,2,6.67,19.61,9.31,22428.73,217.701,58.44,17,22.357,1.038,1.12,6/13/2012,10/25/2017
+Baroda,Baroda BNP Paribas Focused Fund Direct Growth,Equity,Very High Risk,3,5.35,19.54,50.06,11610.66,86.59200000000001,90.91,38,19.625,1.139,0.61,7/14/2006,7/11/2006
+Nippon,Nippon India Nifty Next 50 Junior BeES FoF Direct Growth,Other,Moderately High Risk,4,4.25,19.53,30.03,9859.6,165.546,80.61,16,21.5,1.104,1.1,1/9/2016,11/12/2021
+UTI,UTI Mastershare Direct Growth,Equity,Very High Risk,4,0.65,19.52,13.44,25438.68,276.625,78.54,27,18.575,0.991,0.9,10/29/2011,6/11/2013
+Franklin,Franklin India Equity Advantage Fund Direct Growth,Equity,Very High Risk,2,3.75,19.51,11.23,38388.29,217.63400000000001,8.07,22,21.193,1.038,0.6,8/2/2007,6/15/2015
+HSBC,HSBC Tax Saver Equity Fund Direct Growth,Equity,Very High Risk,2,3.54,19.51,10.56,4741.18,200.808,16.53,19,20.339000000000002,1.064,0.92,2/17/2015,7/1/2007
+Invesco,Invesco India Tax Plan Direct Growth,Equity,Very High Risk,3,-1.89,19.45,13.47,11264.9,181.459,11.38,17,19.262,0.919,0.59,5/25/2010,4/22/2006
+Nippon,Nippon India Tax Saver (ELSS) Fund Direct Growth,Equity,Very High Risk,1,5.61,19.44,6.42,38592.49,46.846000000000004,5.23,16,21.19,1.151,0.91,6/21/2019,6/14/2020
+BNP,BNP Paribas Multi Cap Fund Direct Growth,Equity,Very High Risk,3,20.46,19.42,15.26,21616.96,69.44,57.53,61,21.188000000000002,0.725,1.03,7/6/2017,3/16/2019
+Franklin,Franklin India Taxshield Direct Growth,Equity,Very High Risk,3,7.53,19.41,12.0,13486.31,27.658,57.83,49,21.274,1.114,1.16,7/27/2013,10/15/2019
+Indiabulls,Indiabulls Value Fund Direct Growth,Equity,Very High Risk,2,4.2,19.41,7.73,5688.31,303.222,58.9,62,19.037,0.782,0.77,6/14/2020,4/28/2018
+IDBI,IDBI Focused 30 Equity Fund Direct Growth,Equity,Very High Risk,4,3.8,19.38,23.85,39168.42,93.054,32.18,43,21.285,1.156,1.16,5/22/2019,3/27/2011
+Aditya,Aditya Birla Sun Life Equity Advantage Fund Direct Growth,Equity,Very High Risk,1,-7.52,19.36,8.51,32610.27,198.83599999999998,78.73,30,20.456,1.109,0.79,7/16/2015,5/7/2011
+DSP,DSP Nifty Next 50 Index Fund Direct Growth,Other,Moderately High Risk,3,4.25,19.33,-2.83,26355.25,342.12800000000004,93.95,63,20.258,1.087,1.12,2/10/2009,4/1/2015
+ICICI,ICICI Prudential Bluechip Fund Direct Growth,Equity,Very High Risk,5,6.44,19.3,13.12,31027.88,95.15899999999999,93.36,21,18.871,1.0659999999999998,0.86,11/4/2013,2/27/2017
+SBI,SBI Equity Minimum Variance Fund Direct Growth,Equity,Very High Risk,1,2.33,19.28,10.18,22837.52,318.267,93.97,66,22.756,0.8190000000000001,0.56,5/7/2007,10/7/2017
+ICICI,ICICI Prudential Nifty Next 50 Index Direct Growth,Other,Very High Risk,2,4.1,19.26,9.5,268.55,153.793,58.49,25,22.219,1.123,0.77,5/16/2010,7/8/2019
+IDBI,IDBI Nifty Junior Index Fund Direct Growth,Other,Very High Risk,2,4.41,19.26,9.46,7862.16,172.03400000000002,19.41,66,19.302,0.8690000000000001,0.75,7/17/2010,12/31/2006
+Aditya,Aditya Birla Sun Life Flexi Cap Fund Direct Growth,Equity,Very High Risk,3,-1.58,19.26,11.18,28485.01,39.441,93.56,58,18.097,0.71,0.85,10/17/2014,5/14/2014
+L&T,L&T Large and Midcap Fund Direct Growth,Equity,Very High Risk,2,3.52,19.25,9.82,25905.4,158.205,20.74,66,22.764,1.17,0.92,2/18/2019,5/31/2006
+Tata,Tata Equity PE Fund Direct Growth,Equity,Very High Risk,3,8.2,19.23,10.51,16367.96,73.319,31.22,24,21.205,0.8759999999999999,0.51,7/4/2016,1/13/2012
+SBI,SBI Bluechip Direct Plan Growth,Equity,Very High Risk,3,4.17,19.23,12.24,18587.49,285.656,55.7,20,21.173000000000002,1.0659999999999998,1.02,9/27/2017,2/23/2021
+Sundaram,Sundaram Rural and Consumption Fund Direct Growth,Equity,Very High Risk,1,11.31,19.21,9.81,8642.73,50.941,30.53,24,18.386,0.768,1.14,10/20/2009,1/26/2007
+Navi,Navi Flexi Cap Fund Direct Growth,Equity,Very High Risk,3,4.39,19.16,7.04,9750.24,327.494,16.45,37,22.116,0.8370000000000001,1.16,9/27/2010,3/30/2017
+HDFC,HDFC Capital Builder Value Fund Direct Plan Growth,Equity,Very High Risk,2,4.41,19.13,11.66,19086.75,85.97399999999999,6.42,29,18.712,0.754,0.66,3/28/2010,11/14/2010
+IDFC,IDFC Large Cap Fund Direct Growth,Equity,Very High Risk,4,1.56,19.09,11.8,32577.07,142.69899999999998,45.26,35,20.078,1.1,0.98,3/12/2013,6/18/2010
+Aditya,Aditya Birla Sun Life Manufacturing Equity Fund Direct Growth,Equity,Very High Risk,1,-1.25,19.06,8.76,25428.05,214.74099999999999,47.75,22,22.541999999999998,0.975,0.84,5/23/2015,1/13/2012
+IDFC,IDFC Focused Equity Fund Direct Growth,Equity,Very High Risk,2,2.01,19.01,9.12,30989.67,103.581,54.58,52,21.496,0.706,0.96,4/14/2007,11/20/2010
+Edelweiss,Edelweiss Aggressive Hybrid Fund Direct Growth,Hybrid,Very High Risk,4,8.0,18.97,12.98,37407.94,121.09,53.02,23,21.628,1.1059999999999999,0.79,10/9/2015,11/25/2006
+Mahindra,Mahindra Manulife Rural Bharat And Consumption Yojana Direct Growth,Equity,Very High Risk,5,11.63,18.96,1.4,38972.13,31.381,66.13,23,21.224,0.941,0.72,7/17/2007,10/18/2018
+Tata,Tata Flexi Cap Fund Direct Growth,Equity,Very High Risk,3,1.46,18.95,16.08,33751.08,247.24900000000002,27.02,21,20.930999999999997,0.978,1.03,5/21/2017,11/14/2013
+Motilal,Motilal Oswal Long Term Equity Fund Direct Growth,Equity,Very High Risk,3,-2.06,18.93,10.54,36886.29,101.626,65.2,25,22.63,0.863,0.58,4/10/2013,4/22/2007
+HDFC,HDFC Taxsaver Direct Plan Growth,Equity,Very High Risk,2,11.45,18.88,10.27,32906.59,217.343,71.37,55,21.895,0.83,0.99,11/11/2017,8/1/2017
+Aditya,Aditya Birla Sun Life Pure Value Direct Fund Growth,Equity,Very High Risk,1,1.4,18.81,5.27,4231.92,163.558,85.73,34,19.515,1.031,1.06,9/15/2019,11/14/2021
+Canara,Canara Robeco Equity Hybrid Fund Direct Growth,Hybrid,Very High Risk,4,1.86,18.77,13.1,20116.5,347.853,89.94,29,19.326,0.873,0.65,8/27/2016,10/16/2014
+Edelweiss,Edelweiss Large Cap Fund Direct Growth,Equity,Very High Risk,4,1.53,18.76,13.62,36789.4,240.512,30.75,31,21.651999999999997,0.762,0.54,11/10/2015,11/21/2020
+HDFC,HDFC Balanced Advantage Fund Direct Plan Growth,Hybrid,Very High Risk,2,17.16,18.75,12.36,19219.53,256.408,94.32,46,22.491999999999997,1.06,0.57,11/22/2009,1/4/2018
+Invesco,Invesco India Largecap Fund Direct Growth,Equity,Very High Risk,4,1.7,18.71,13.21,3417.55,125.66,28.32,15,20.873,0.812,0.69,3/21/2011,12/3/2013
+Baroda,Baroda BNP Paribas Large Cap Fund Direct Growth,Equity,Very High Risk,5,2.96,18.6,12.96,11337.0,232.00400000000002,21.42,39,22.078000000000003,1.111,1.32,3/26/2016,12/1/2008
+IDFC,IDFC Nifty 50 Index Direct Plan Growth,Other,Very High Risk,4,2.98,18.57,13.48,34110.38,72.9,15.7,60,19.614,1.045,1.09,4/25/2012,1/25/2022
+Aditya,Aditya Birla Sun Life Focused Equity Fund Direct Growth,Equity,Very High Risk,3,1.6,18.56,11.41,8324.43,275.343,37.78,44,20.289,0.8220000000000001,0.94,10/31/2010,10/28/2020
+SBI,SBI Magnum Equity ESG Fund Direct Plan Growth,Equity,Very High Risk,3,1.78,18.55,13.34,11002.84,307.33099999999996,17.88,36,21.568,1.101,0.71,8/29/2016,1/19/2020
+SBI,SBI Flexicap Fund Direct Growth,Equity,Very High Risk,3,2.95,18.55,12.22,2973.02,229.998,84.43,26,19.717,1.113,0.67,12/24/2014,2/23/2017
+Aditya,Aditya Birla Sun Life Frontline Equity Direct Fund Growth,Equity,Very High Risk,2,3.02,18.52,11.19,30661.41,141.42700000000002,35.73,39,19.703,0.755,0.65,5/5/2008,9/4/2008
+Baroda,Baroda BNP Paribas Aggressive Hybrid Fund Direct Growth,Hybrid,Very High Risk,5,3.38,18.5,13.96,1459.37,154.421,65.09,40,22.31,1.163,0.86,8/1/2021,9/5/2020
+Franklin,Franklin India Bluechip Direct Fund Growth,Equity,Very High Risk,2,0.01,18.49,10.68,36555.19,50.361999999999995,89.16,37,22.761,0.983,1.1,10/15/2021,5/5/2015
+Invesco,Invesco India Growth Opportunities Fund Direct Growth,Equity,Very High Risk,3,1.89,18.44,13.12,4752.46,17.894000000000002,81.82,61,21.522,1.024,1.0,3/22/2017,4/7/2009
+HDFC,HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth,Solution Oriented,Very High Risk,4,4.75,18.44,12.82,7943.01,236.34099999999998,37.32,61,20.282,1.022,0.7,2/3/2021,5/9/2008
+Mirae,Mirae Asset Large Cap Fund Direct Growth,Equity,Very High Risk,4,1.21,18.43,13.12,30699.42,196.798,91.05,37,18.392,0.784,0.64,4/26/2011,2/10/2018
+Axis,Axis Flexi Cap Fund Direct Growth,Equity,Very High Risk,3,-3.68,18.4,45.92,30280.2,328.306,87.79,38,22.741999999999997,0.887,0.57,10/20/2007,9/22/2017
+Taurus,Taurus Nifty 50 Index Fund Direct Growth,Other,Very High Risk,4,2.6,18.39,13.42,11012.91,132.119,40.13,27,18.324,0.841,0.83,10/18/2012,8/21/2013
+UTI,UTI Hybrid Equity Fund Direct Fund Growth,Hybrid,Very High Risk,3,6.25,18.33,10.42,36474.24,271.207,65.17,48,20.224,0.763,0.57,9/3/2013,6/12/2018
+Motilal,Motilal Oswal Focused 25 Fund Direct Growth,Equity,Very High Risk,3,-0.24,18.32,11.31,27297.96,50.858000000000004,70.05,43,19.172,1.165,0.86,12/17/2019,2/3/2012
+Baroda,Baroda BNP Paribas Balanced Advantage Fund Direct Growth,Hybrid,Very High Risk,4,5.01,18.31,39.47,31099.73,256.97700000000003,30.34,54,19.524,0.6970000000000001,1.13,6/24/2017,12/1/2019
+UTI,UTI Nifty 50 Index Fund Direct Growth,Other,Very High Risk,3,2.78,18.3,13.33,26118.75,169.78799999999998,60.62,54,21.765,0.883,1.3,4/1/2009,1/11/2013
+ICICI,ICICI Prudential Nifty 50 Index Direct Plan Growth,Other,Very High Risk,3,2.77,18.3,13.16,36308.53,50.527,24.33,60,21.017,0.955,1.25,8/10/2009,11/3/2006
+UTI,UTI Dividend Yield Fund Direct Growth,Equity,Very High Risk,2,-4.01,18.28,12.31,12966.93,23.037,61.03,20,22.679000000000002,0.975,1.21,4/6/2016,2/15/2018
+Nippon,Nippon India Index Fund Nifty 50 Plan Direct Growth,Other,Very High Risk,3,2.76,18.22,13.2,18312.12,37.265,55.37,34,20.875,0.757,1.02,11/2/2013,4/23/2008
+Tata,Tata Nifty 50 Index Direct,Other,Very High Risk,3,2.86,18.2,13.26,30985.32,23.993000000000002,72.2,33,20.477,1.021,0.62,10/16/2016,7/27/2018
+HDFC,HDFC Index Fund Nifty 50 Plan Direct Growth,Other,Very High Risk,3,2.71,18.15,13.26,17771.28,319.097,39.38,32,19.232,1.023,0.72,1/12/2013,6/14/2011
+DSP,DSP Nifty 50 Index Fund Direct Growth,Other,Moderately High Risk,3,2.75,18.06,7.02,30406.52,348.019,7.22,27,18.377,1.123,0.6,4/10/2007,3/12/2016
+ICICI,ICICI Prudential S&P BSE Sensex Index Fund Direct Growth,Other,Very High Risk,3,2.56,18.05,49.72,27349.8,99.685,55.63,31,21.267,1.151,0.88,7/27/2015,3/11/2011
+Sundaram,Sundaram Select Focus Fund Direct Growth,Equity,Very High Risk,5,25.71,18.04,18.5,27426.89,187.09,62.79,44,19.938,1.0490000000000002,0.6,1/30/2012,6/2/2019
+Aditya,Aditya Birla Sun Life Nifty 50 Index Fund Direct Growth,Other,Very High Risk,3,2.66,18.02,12.8,32358.76,187.549,34.7,56,21.584,0.813,0.61,10/8/2017,10/11/2007
+SBI,SBI Nifty Index Direct Plan Growth,Other,Very High Risk,3,2.77,18.02,13.1,18898.35,327.14799999999997,40.42,65,20.132,0.743,0.94,1/26/2007,1/9/2022
+IDBI,IDBI Nifty Index Fund Direct Growth,Other,Very High Risk,3,2.81,18.0,13.03,17558.16,66.689,2.97,22,20.094,1.067,0.79,6/22/2017,4/16/2008
+Nippon,Nippon India Index Fund S&P BSE Sensex Plan Direct Growth,Other,Very High Risk,4,2.68,17.99,14.34,13277.04,129.034,67.72,61,18.892,1.129,1.03,11/1/2010,4/17/2013
+LIC,LIC MF Nifty 50 Index Fund Direct Growth,Other,Very High Risk,3,2.72,17.97,12.79,9038.66,179.804,80.55,19,19.538,0.69,0.76,2/7/2015,9/20/2013
+Shriram,Shriram Long Term Equity Fund Direct Growth,Equity,Very High Risk,3,2.99,17.95,32.44,11378.02,348.07,66.4,55,19.535,1.0859999999999999,0.73,10/23/2014,7/24/2022
+IDFC,IDFC Hybrid Equity Fund Direct Growth,Hybrid,Very High Risk,3,1.95,17.93,10.21,7302.55,131.214,99.9,60,17.967,0.858,0.94,1/28/2011,5/14/2016
+Kotak,Kotak Flexicap Fund Direct Growth,Equity,Very High Risk,3,2.29,17.91,12.05,36198.24,134.85399999999998,23.43,21,22.63,1.034,0.91,2/10/2017,3/15/2018
+Edelweiss,Edelweiss Balanced Advantage Fund Direct Growth,Hybrid,Very High Risk,5,3.07,17.9,12.6,28222.96,66.634,91.02,22,18.697,0.855,0.52,9/27/2015,11/13/2008
+Franklin,Franklin India NSE Nifty 50 Index Direct Growth,Other,Very High Risk,3,2.71,17.88,12.79,6890.65,344.001,38.1,27,18.087,1.0659999999999998,1.18,8/16/2008,12/11/2014
+HDFC,HDFC Index S&P BSE Sensex Direct Plan Growth,Other,Very High Risk,4,2.61,17.86,14.26,22754.11,167.06799999999998,13.1,36,20.203,1.16,0.91,8/26/2006,1/31/2008
+Baroda,Baroda BNP Paribas ELSS Direct Growth,Equity,Very High Risk,3,-0.43,17.85,11.22,38138.58,40.48,69.59,39,21.615,0.9490000000000001,0.71,3/5/2006,3/19/2010
+IDBI,IDBI Long Term Value Fund Direct Growth,Equity,Very High Risk,2,5.19,17.84,39.88,736.47,38.47,94.07,66,21.557,1.046,1.25,3/27/2007,2/12/2020
+Sundaram,Sundaram Large Cap Fund Direct Growth,Equity,Very High Risk,4,2.05,17.8,13.32,23135.29,86.781,74.58,46,22.156,0.7090000000000001,1.23,11/2/2013,9/6/2008
+ICICI,ICICI Prudential FMCG Direct Growth,Equity,Very High Risk,3,18.37,17.77,13.61,39958.62,338.00699999999995,32.17,15,20.480999999999998,0.9470000000000001,0.98,5/26/2015,11/22/2006
+Tata,Tata Large Cap Direct Plan Growth,Equity,Very High Risk,2,2.56,17.77,11.77,18785.87,47.111999999999995,1.07,49,19.366,1.114,1.21,8/8/2009,8/2/2020
+Union,Union Largecap Fund Direct Growth,Equity,Very High Risk,2,0.71,17.73,10.72,6470.96,36.874,44.19,27,20.783,0.83,1.23,8/25/2014,8/16/2016
+LIC,LIC MF S&P BSE Sensex Fund Direct Growth,Other,Very High Risk,3,2.5,17.7,13.92,6739.83,333.223,70.79,39,19.160999999999998,0.688,0.96,6/18/2007,11/2/2021
+HDFC,HDFC Hybrid Equity Fund Direct Plan Growth,Hybrid,Very High Risk,3,7.64,17.68,11.73,34933.84,322.14099999999996,27.14,25,20.301,1.055,1.17,4/16/2006,10/7/2020
+Tata,Tata S&P BSE Sensex Index Direct,Other,Very High Risk,4,2.52,17.65,14.19,36948.34,216.636,77.93,43,19.477999999999998,1.157,0.93,4/29/2012,9/9/2009
+IDBI,IDBI Equity Advantage Fund Direct Growth,Equity,Very High Risk,2,5.22,17.64,11.2,12262.58,65.925,35.28,29,18.480999999999998,1.126,1.29,4/19/2007,3/25/2013
+Tata,Tata Retirement Savings Fund Progressive Plan Direct Growth,Solution Oriented,Very High Risk,3,-1.11,17.56,10.85,32556.25,256.22700000000003,69.67,25,19.250999999999998,0.813,0.6,4/4/2009,12/16/2007
+HDFC,HDFC Infrastructure Direct Plan Growth,Equity,Very High Risk,1,19.75,17.56,4.19,34484.59,91.135,35.14,30,22.211,1.11,0.51,2/24/2021,7/17/2006
+Baroda,Baroda Equity Linked Saving Scheme 96 Direct Growth,Equity,Very High Risk,3,18.49,17.55,12.53,23625.98,116.662,43.63,40,18.188,0.809,1.08,11/23/2015,6/24/2019
+IDFC,IDFC Flexi Cap Fund Direct Growth,Equity,Very High Risk,2,4.53,17.54,9.56,22478.25,26.098000000000003,9.18,61,19.090999999999998,0.894,0.74,1/14/2013,8/9/2012
+Sundaram,Sundaram Aggressive Hybrid Fund Direct Growth,Hybrid,High Risk,3,4.34,17.5,12.01,60.34,154.958,49.83,41,18.387,1.033,1.25,2/13/2019,2/7/2018
+Quantum,Quantum Equity Fund of Funds Direct Growth,Other,Very High Risk,2,0.53,17.49,10.57,27019.69,16.865,50.66,46,18.104,1.036,1.29,6/5/2008,6/29/2017
+L&T,L&T India Large Cap Fund Direct Growth,Equity,Very High Risk,2,1.94,17.49,11.57,29342.74,210.46200000000002,28.66,56,21.271,0.72,1.04,5/12/2009,12/1/2007
+HDFC,HDFC Multi Asset Fund Direct Growth,Hybrid,Very High Risk,4,5.46,17.48,11.39,14141.2,199.551,62.16,57,18.811,0.75,0.52,5/25/2011,3/19/2022
+Aditya,Aditya Birla Sun Life Financial Planning FoF Aggressive Plan Direct Growth,Other,Very High Risk,3,3.5,17.47,10.69,25672.91,291.08299999999997,13.68,60,19.534000000000002,1.088,0.61,3/21/2020,6/29/2007
+DSP,DSP World Mining Fund Direct Plan Growth,Other,Very High Risk,4,-5.42,17.39,11.53,1461.32,142.445,3.25,55,21.807,0.905,0.8,11/9/2015,1/5/2006
+LIC,LIC MF Large Cap Fund Direct Growth,Equity,Very High Risk,3,-0.14,17.37,11.93,4479.67,261.191,43.18,18,19.758,1.044,1.01,3/5/2021,11/18/2012
+HSBC,HSBC Large Cap Equity Fund Direct Growth,Equity,Very High Risk,2,1.0,17.35,11.4,26073.32,316.155,23.27,34,22.03,0.982,0.82,12/15/2012,2/4/2021
+LIC,LIC MF Tax Direct Plan Growth,Equity,Very High Risk,3,3.4,17.31,12.53,27107.75,292.994,87.75,21,21.27,0.72,0.95,3/30/2019,8/9/2015
+L&T,L&T Flexicap Fund Direct Growth,Equity,Very High Risk,2,4.31,17.31,10.39,14264.63,288.974,6.34,44,20.007,0.991,0.73,8/9/2013,1/6/2021
+Mirae,Mirae Asset Hybrid Equity Fund Direct Growth,Hybrid,Very High Risk,4,2.66,17.22,12.85,13607.32,119.863,85.84,61,22.131,0.909,1.1,3/29/2013,4/11/2010
+L&T,L&T Tax Advantage Fund Direct Growth,Equity,Very High Risk,2,-0.36,17.19,9.15,24485.57,17.647000000000002,27.28,62,22.38,1.048,1.14,5/16/2022,11/2/2014
+Axis,Axis Long Term Equity Direct Plan Growth,Equity,Very High Risk,3,-7.34,17.18,13.21,37587.32,318.431,31.8,34,20.409000000000002,0.971,0.72,5/1/2017,5/7/2006
+Shriram,Shriram Flexi Cap Fund Direct Growth,Equity,Very High Risk,2,5.62,17.14,24.92,29788.64,245.38299999999998,88.99,42,20.838,0.797,0.89,1/12/2018,6/18/2022
+Sundaram,Sundaram Equity Hybrid Fund Direct Growth,Hybrid,High Risk,4,30.11,17.11,15.7,25120.29,275.21299999999997,7.46,58,22.193,0.767,0.88,2/25/2016,2/11/2013
+Sundaram,Sundaram Diversified Equity Fund Direct Growth,Equity,Very High Risk,2,31.78,17.03,14.26,22855.47,152.58700000000002,29.28,33,21.378,1.123,0.67,11/2/2013,8/21/2019
+ICICI,ICICI Prudential Passive Strategy Fund (FOF) Direct Growth,Other,Very High Risk,3,1.38,16.96,10.83,2516.35,255.36700000000002,12.54,41,21.721,0.935,1.25,5/16/2012,11/4/2014
+Axis,Axis Focused 25 Direct Plan Growth,Equity,Very High Risk,3,-8.87,16.94,12.64,1803.63,194.317,71.35,40,22.212,0.698,0.83,4/19/2022,2/16/2017
+DSP,DSP Equity & Bond Direct Growth,Hybrid,Very High Risk,3,-1.65,16.91,11.48,3012.62,193.17700000000002,37.11,30,21.471,1.129,0.9,10/30/2018,1/13/2015
+Navi,Navi ELSS Tax Saver Fund Direct Growth,Equity,Very High Risk,2,2.71,16.9,10.27,22370.63,299.644,36.36,23,20.67,0.6809999999999999,0.74,11/3/2012,10/4/2006
+HDFC,HDFC Top 100 Fund Direct Plan Growth,Equity,Very High Risk,2,9.64,16.89,11.83,22086.87,266.504,25.92,53,20.364,0.9229999999999999,1.05,9/5/2019,5/16/2008
+Axis,Axis Bluechip Fund Direct Plan Growth,Equity,Very High Risk,5,-4.07,16.87,14.55,32195.03,149.031,48.89,31,21.346,0.685,1.01,6/12/2018,12/14/2012
+UTI,UTI MNC Fund Direct Growth,Equity,Very High Risk,2,2.65,16.87,10.53,31132.41,62.326,64.3,55,18.426,0.884,1.06,4/11/2012,11/26/2016
+Tata,Tata Retirement Savings Fund Moderate Plan Direct Growth,Solution Oriented,Very High Risk,3,0.95,16.83,10.35,31881.3,40.056,31.26,61,19.494,0.8029999999999999,1.1,4/25/2006,10/1/2008
+Axis,Axis Triple Advantage Direct Plan Growth,Hybrid,Very High Risk,3,-0.81,16.75,12.11,30072.85,322.76,8.03,47,22.26,1.125,0.74,12/13/2010,9/9/2021
+Tata,Tata Hybrid Equity Fund Direct Plan Growth,Hybrid,Very High Risk,3,5.23,16.66,10.65,36183.3,344.05199999999996,71.31,20,19.397000000000002,1.083,0.68,10/4/2006,1/3/2008
+Franklin,Franklin India Equity Hybrid Fund Direct Growth,Hybrid,Very High Risk,3,3.06,16.65,11.23,5232.05,101.31200000000001,45.38,30,19.667,0.985,1.09,9/22/2021,3/13/2009
+Sundaram,Sundaram Financial Services Opportunities Fund Direct Growth,Equity,Very High Risk,4,5.92,16.65,11.54,10879.89,309.383,27.86,29,19.172,0.914,1.24,2/25/2021,2/19/2011
+DSP,DSP Focus Direct Plan Growth,Equity,Very High Risk,2,-2.75,16.65,10.04,37110.31,208.28900000000002,80.82,18,21.129,0.804,0.53,1/9/2010,1/14/2009
+HSBC,HSBC Managed Solutions India Growth Fund Direct Growth,Other,Very High Risk,2,0.92,16.59,9.85,33957.63,120.206,56.09,33,18.067999999999998,1.05,1.31,3/30/2018,11/20/2006
+ICICI,ICICI Prudential BHARAT 22 FOF Direct Growth,Other,Very High Risk,1,27.14,16.53,-0.67,30017.11,331.98400000000004,83.25,42,20.117,0.871,1.29,2/4/2006,12/12/2017
+L&T,L&T Focused Equity Fund Direct Growth,Equity,Very High Risk,3,-1.83,16.48,17.71,7401.18,294.934,92.74,47,22.436,0.996,0.88,10/31/2017,4/14/2009
+ICICI,ICICI Prudential Retirement Fund Hybrid Aggressive Plan Direct Growth,Solution Oriented,Moderately High Risk,4,4.95,16.4,-11.32,2430.87,165.97,29.08,20,22.61,1.047,0.91,12/26/2008,5/7/2017
+Taurus,Taurus Largecap Equity Fund Direct Growth,Equity,Very High Risk,1,7.7,16.39,9.07,14574.47,123.32,64.83,21,21.495,0.7879999999999999,0.57,4/27/2019,8/20/2010
+Taurus,Taurus Tax Shield Direct Growth,Equity,Very High Risk,3,0.88,16.37,10.49,3744.72,102.93299999999999,3.32,22,18.807000000000002,1.056,0.56,12/16/2019,1/15/2021
+JM,JM Large Cap Fund Direct Plan Growth,Equity,Very High Risk,4,4.11,16.29,10.93,36030.59,52.54600000000001,46.9,26,22.108,0.9590000000000001,0.77,2/28/2012,4/2/2019
+Franklin,Franklin India Life Stage FoF The 20s Plan Direct Growth,Other,Very High Risk,2,3.2,16.28,9.36,21395.73,316.278,88.05,32,20.877,0.878,0.6,6/6/2022,6/19/2018
+Axis,Axis Equity Hybrid Fund Direct Growth,Hybrid,Very High Risk,3,-0.12,16.27,28.23,30159.38,315.295,58.48,51,18.165,1.102,1.11,6/10/2020,6/11/2018
+Indiabulls,Indiabulls Tax Savings Fund Direct Growth,Equity,Very High Risk,2,3.03,16.25,19.47,6664.15,102.492,90.12,28,18.506,0.8640000000000001,1.02,10/30/2013,9/11/2021
+SBI,SBI Equity Hybrid Fund Direct Plan Growth,Hybrid,Very High Risk,4,3.56,16.2,12.58,30628.76,254.80200000000002,56.62,24,20.483,1.0290000000000001,1.12,6/22/2013,11/15/2010
+PGIM,PGIM India Large Cap Fund Direct Plan Growth,Equity,Very High Risk,2,-2.38,16.19,11.02,2149.56,257.164,19.16,45,21.936999999999998,1.074,0.91,12/31/2021,5/12/2013
+Motilal,Motilal Oswal Equity Hybrid Fund Direct Growth,Hybrid,Very High Risk,3,2.2,16.17,53.77,654.01,272.01,53.22,63,22.579,0.8859999999999999,1.09,11/11/2007,4/12/2012
+Sundaram,Sundaram Smart NIFTY 100 Equal Weight Fund Direct Growth,Other,Very High Risk,2,34.35,16.08,37.56,4558.11,228.757,49.84,54,19.945,1.101,1.13,7/3/2017,2/18/2009
+SBI,SBI PSU Direct Plan Growth,Equity,Very High Risk,4,18.28,16.03,3.88,29700.31,331.736,87.48,41,18.898,0.981,1.29,3/13/2012,3/25/2021
+Aditya,Aditya Birla Sun Life Asset Allocator FoF Direct Growth,Other,High Risk,5,2.38,16.03,9.99,39519.94,104.199,51.33,50,20.087,0.775,1.3,4/11/2010,7/2/2017
+Nippon,Nippon India Banking & Financial Services Fund Direct Growth,Equity,Very High Risk,3,9.31,15.99,8.6,14707.12,131.575,77.9,48,21.818,1.079,1.25,7/6/2015,2/13/2011
+HDFC,HDFC Housing Opportunities Fund Direct Growth,Equity,Very High Risk,2,4.97,15.97,-3.96,20987.56,160.58700000000002,51.36,63,20.093,1.071,0.92,5/21/2018,4/1/2022
+DSP,DSP US Flexible Equity Direct Plan Growth,Other,Very High Risk,1,-2.17,15.92,14.99,5814.62,247.085,37.15,16,21.384,0.693,1.06,3/6/2021,8/27/2011
+HDFC,HDFC Dynamic PE Ratio FoF Direct Growth,Other,High Risk,3,7.53,15.84,10.58,32137.94,17.819000000000003,10.31,63,20.077,0.903,0.61,6/26/2016,4/3/2013
+Quantum,Quantum Tax Saving Fund Direct Growth,Equity,Very High Risk,2,2.87,15.81,9.67,24713.09,177.632,7.71,39,20.947,0.9670000000000001,0.74,12/1/2020,9/3/2014
+SBI,SBI Banking & Financial Services Fund Direct Growth,Equity,Very High Risk,5,4.0,15.76,12.99,28322.18,279.311,9.38,27,20.309,1.177,1.07,5/24/2008,5/6/2015
+HSBC,HSBC Equity Hybrid Fund Direct Growth,Hybrid,Very High Risk,3,-0.38,15.7,47.99,39799.35,261.29900000000004,26.63,40,21.325,0.8740000000000001,0.56,3/8/2006,10/20/2016
+Aditya,Aditya Birla Sun Life International Equity Fund Plan B Direct Growth,Equity,Very High Risk,4,26.07,15.65,12.41,5252.92,309.375,67.14,43,19.346,0.917,0.95,2/14/2015,3/17/2017
+Quantum,Quantum Long Term Equity Value Fund Direct Growth,Equity,Very High Risk,2,2.62,15.63,9.53,4315.96,169.34599999999998,25.93,40,19.067,0.9620000000000001,0.91,3/29/2012,3/31/2006
+Tata,Tata Balanced Advantage Fund Direct Growth,Hybrid,Very High Risk,4,6.47,15.63,-5.02,19901.93,65.365,72.1,66,21.326,0.9209999999999999,0.55,11/9/2006,10/15/2008
+Taurus,Taurus Flexi Cap Fund Direct Growth,Equity,Very High Risk,1,5.7,15.52,6.97,13915.31,253.158,19.09,46,21.614,0.9990000000000001,0.65,10/2/2021,10/13/2012
+Bank,Bank of India Conservative Hybrid Fund Direct Growth,Hybrid,Moderately High Risk,3,21.73,15.41,7.02,8695.31,303.222,40.91,53,21.639,1.046,0.64,5/6/2018,9/17/2011
+Indiabulls,Indiabulls Equity Hybrid Fund Direct Growth,Hybrid,Very High Risk,3,3.89,15.14,6.69,21205.78,312.77299999999997,87.89,63,18.294,0.899,1.11,3/30/2006,5/24/2020
+DSP,DSP Top 100 Equity Direct Plan Growth,Equity,Very High Risk,1,-3.23,15.11,8.78,5007.37,165.648,8.27,29,21.587,0.804,0.57,2/11/2010,8/20/2010
+Baroda,Baroda Hybrid Equity Fund Direct Plan Growth,Hybrid,Very High Risk,3,15.64,15.04,12.27,1443.7,321.811,76.78,59,20.369,1.024,0.66,8/16/2013,9/25/2011
+Aditya,Aditya Birla Sun Life Banking & Financial Services Fund Direct Growth,Equity,Very High Risk,3,1.63,15.0,8.19,14940.57,50.43600000000001,60.85,45,19.96,0.982,0.76,9/9/2017,2/28/2017
+Indiabulls,Indiabulls Bluechip Direct Fund Growth,Equity,Very High Risk,1,2.9,14.92,10.32,30521.0,74.34,11.55,49,19.325,0.794,0.98,5/25/2016,4/7/2013
+ICICI,ICICI Prudential Asset Allocator Fund (FOF) Direct Growth,Other,Moderately High Risk,4,7.35,14.91,11.83,26001.37,315.769,15.53,59,21.682,0.815,0.84,5/6/2017,6/28/2007
+Aditya,Aditya Birla Sun Life Equity Hybrid '95 Fund Direct Growth,Hybrid,Very High Risk,2,-0.47,14.77,8.46,13978.65,264.08299999999997,79.04,44,22.776,0.799,0.52,6/3/2010,7/5/2010
+HSBC,HSBC Managed Solutions India Moderate Fund Direct Growth,Other,High Risk,2,1.14,14.77,9.16,12372.18,229.236,33.92,66,17.925,1.045,1.15,12/17/2009,10/3/2017
+Nippon,Nippon India Retirement Fund Wealth Creation Scheme Direct Growth,Solution Oriented,Very High Risk,1,2.82,14.72,7.84,32858.83,32.044000000000004,34.62,54,20.778000000000002,0.778,0.51,1/30/2010,5/5/2016
