@@ -30,6 +30,12 @@ Developed a user-friendly terminal-based UI that provides information about the 
 #### Learning Experiences:
 The project provided valuable learning experiences in distributed systems, the map-reduce paradigm, data storage technologies (MongoDB and Firebase), and UI building. It enabled the understanding of complex concepts and practical application.
 
+### How to run this?
+Make the following changes to be able to run this code for yourself!
+- Create an environment with the requirements file provided.
+- Edit the "launch-dodfs.bat" file by changing the environment path and the path to the main.py file.
+- You should be good to go!
+
 ### Links:
 Video: https://www.youtube.com/watch?v=XKMGEDI8xNg  
 For more details, please refer to the provided links to the videos!
