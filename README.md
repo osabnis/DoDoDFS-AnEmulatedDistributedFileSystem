@@ -39,10 +39,3 @@ Make the following changes to be able to run this code for yourself!
 ### Links:
 Video: https://www.youtube.com/watch?v=XKMGEDI8xNg  
 For more details, please refer to the provided links to the videos!
-
-
-
-
-
-
-Regenerate
